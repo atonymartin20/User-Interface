@@ -193,7 +193,7 @@ p {
 	line-height: 20px;
 }
 
-#flexIt {
+.flexIt {
 	background: black;
 	-webkit-animation: myAnimation 5s infinite;
 	animation: myAnimation 5s infinite;
@@ -219,4 +219,14 @@ a:hover {
 .contactA {
 	color: black;
 	margin-left: 0px;
+}
+
+.notH2 {
+	margin-top: 30px;
+	font-weight: bold;
+	font-size: 17px;
+	text-align: left;
+	font-family: 'Bangers', cursive;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
 }
