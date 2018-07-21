@@ -216,7 +216,11 @@ a:hover {
 	color: black;
   }
 
-.contactA {
-	color: black;
-	margin-left: 0px;
+  address {
+      margin-top: 100px;
+  }
+
+  .contactA {
+    color: black;
+    margin-left: 0px;
 }
